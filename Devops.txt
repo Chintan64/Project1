@@ -1,0 +1,67 @@
+Git hub
+Jenkins
+Docker
+Kubernetes
+Ansible
+Terraform
+Prometheus
+Sonarqube
+Jfrog artifactory
+
+
+Cloud -AWS 
+route 53
+EC2
+cloudwatch 
+IAM 
+
+==========================================
+Python
+git 
+Jenkins 
+docker and kubernete
+ansible 
+terraform
+AWS ( Setup )  
+
+ssh-rsa patelchintan6464@gmail.com
+
+
+Code management - git and github
+Integration - jenkins
+deployment - docker and kubernetes(will manage docker container in PDoD)
+automation - Ansible , maven 
+Testing - selenium , junit
+Monitor - nagios
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
