@@ -1,0 +1,7 @@
+Git commands
+
+Git config Configure the username and email address
+Git add  Add one or more files to staging area
+Git diff View the changes made to the file
+Git init Initialize a local Git repository
+Git commit Commit changes to head but not to the remote repositc.ubtnes/ciose
