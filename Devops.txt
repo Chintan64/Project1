@@ -3,7 +3,7 @@ Jenkins
 Docker
 Kubernetes
 Ansible
-Terraform
+Terrafor
 Prometheus
 Sonarqube
 Jfrog artifactory
